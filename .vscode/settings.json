@@ -1,0 +1,7 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.search.scope": "main",
+  "files.watcherExclude": {
+    "**/target": true
+  }
+}
